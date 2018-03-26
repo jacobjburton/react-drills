@@ -17,7 +17,7 @@ class App extends Component {
     this.setState({ textDisplay: val })
   }
   
-  
+
   
   render() {
     return (
